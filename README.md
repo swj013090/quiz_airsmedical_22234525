@@ -1,2 +1,2 @@
-# testquiz_airsmedical
+# quiz_airsmedical
 퀴즈
